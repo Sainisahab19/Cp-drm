@@ -1,5 +1,5 @@
 {
-    "name": "Drm Uploader By 🅱🅴🅰🆂🆃 👑",
+    "name": "Drm Uploader By <a href="https://t.me/saini_sahab19">𝙎𝘼𝙄𝙉𝙄 𝙎𝘼𝙃𝘼𝘽 </a>",
     "description": "DRM Uploader",
     "logo": "https://tinypic.host/image/Screenshot-2025-03-19-06-40-21-30.3gKoOw",
     "keywords": [
@@ -7,18 +7,18 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/Chiru63019/Classplusdrm",
-    "success_url": "https://telegram.me/skillwithchiru",
+    "repository": "https://github.com/Sainisahab19/Cp-drm",
+    "success_url": "https://t.me/saini_sahab19",
     "stack": "container",
     "env": {
         "API_ID": {
             "description": "enter_your_api_id",
-            "value": "26468828",
+            "value": "28235190",
             "required": true
         },
         "API_HASH": {
             "description": "enter_your_api_harsh",
-            "value": "4693513c08d1ac6af15f95b116c29478",
+            "value": "a685e1bccefafc462baf123cff9a1be3",
             "required": true
         },
         "BOT_TOKEN": {
